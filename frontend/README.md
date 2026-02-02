@@ -1,16 +1,24 @@
-# React + Vite
+# 🚀 Challenge Fullstack - Alexander Rivero
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[cite_start]Este proyecto es la resolución del desafío técnico para el ingreso a la **Academia ForIT 2025**[cite: 4]. [cite_start]Consiste en una aplicación de gestión de tareas (To-Do List) que demuestra conocimientos en Git, JavaScript, Node.js y React[cite: 5, 6].
 
-Currently, two official plugins are available:
+## 🛠️ Requisitos Cumplidos
+* [cite_start]**Backend**: Servidor con Express y endpoints para CRUD completo (GET, POST, PUT, DELETE)[cite: 13, 14].
+* [cite_start]**Frontend**: Aplicación React con Vite, utilizando componentes para la lista y el formulario de tareas[cite: 22, 23].
+* [cite_start]**Git**: Repositorio público organizado con carpetas separadas para frontend y backend[cite: 9, 11, 12].
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Captura de la Aplicación
+![Vista de la Aplicación](./screenshot-ForIT.png)
 
-## React Compiler
+## [cite_start]⚙️ Instrucciones de Ejecución 
+Para correr este proyecto localmente, seguí estos pasos:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 1. Backend
+* Entrar a la carpeta: `cd backend`
+* Instalar dependencias: `npm install`
+* Iniciar el servidor: `npm start`
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 2. Frontend
+* Entrar a la carpeta: `cd frontend`
+* Instalar dependencias: `npm install`
+* Iniciar la app: `npm run dev`
