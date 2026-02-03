@@ -8,4 +8,6 @@ Este proyecto es la resolución del desafío técnico para el ingreso a la **Aca
 **Git**: Repositorio público organizado con carpetas separadas para frontend y backend.
 
 # 📸 Captura de la Aplicación
-![Vista de la Aplicación](./screenshot-ForIT.png)
+![Vista de la Aplicación](1.%20screenshot-ForIT.png)
+![Vista de la Aplicación](2.%20screenshot-lista.png)
+![Vista de la Aplicación](3.%20screenshot-app%20y%20terminal.png)
